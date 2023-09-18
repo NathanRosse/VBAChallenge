@@ -1,5 +1,5 @@
 # VBAChallenge
-Thanks to the great help of Stuart, Amanda, Sean, my friend Alex, StackOverflow with min and max functions along with last row and a variety of online references I used as guides. I need more tutoring sessions
+Thanks to the great help of Stuart, Amanda, Sean, my friend Alex, StackOverflow with min and max functions along with last row and a variety of online references I used as guides. I wish we could have more tutoring sessions per week
 
 
                                                                   2018 STOCK RESULTS
