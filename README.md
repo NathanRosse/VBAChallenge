@@ -3,15 +3,16 @@ Thanks to the great help of Stuart, Amanda, Sean, my friend Alex, StackOverflow 
 
 
                                                                   2018 STOCK RESULTS
+![2018 results](https://github.com/NathanRosse/VBAChallenge/assets/143344012/7c4fbbe2-7c73-457b-a10d-a80670d032d6)
 
-                                                            ![Alt text](image-1.png)
-
+                                                            
 
 
                                                                   2019 STOCK RESULTS
-                                                            ![Alt text](image-2.png)
+                                                          
+![2019 results](https://github.com/NathanRosse/VBAChallenge/assets/143344012/bfd8a5d2-538b-4ebf-a8ce-264342fe2231)
 
 
 
                                                                    2020 STOCK RESULTS
-                                                             ![Alt text](image-3.png)
+  ![2020 results](https://github.com/NathanRosse/VBAChallenge/assets/143344012/694f6be5-0ba9-4c87-bbe9-1c5ab3c5f6ae)
