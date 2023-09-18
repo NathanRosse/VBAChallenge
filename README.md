@@ -1,15 +1,17 @@
 # VBAChallenge
+Thanks to the great help of Stuart, Amanda, Sean, my friend Alex, StackOverflow with min and max functions along with last row and a variety of online references I used as guides. I need more tutoring sessions
+
 
                                                                   2018 STOCK RESULTS
-                                ![image](https://github.com/NathanRosse/VBAChallenge/assets/143344012/c554c28c-3de1-4127-9351-3bbbb6fe239b)
+
+                                                            ![Alt text](image-1.png)
 
 
 
                                                                   2019 STOCK RESULTS
-                               ![image](https://github.com/NathanRosse/VBAChallenge/assets/143344012/7c1783bf-85b0-4717-86f6-f446d02a1299)
-
+                                                            ![Alt text](image-2.png)
 
 
 
                                                                    2020 STOCK RESULTS
-                              ![image](https://github.com/NathanRosse/VBAChallenge/assets/143344012/1aad85a6-e9c7-463f-9b86-d1dd3976a49d)
+                                                             ![Alt text](image-3.png)
